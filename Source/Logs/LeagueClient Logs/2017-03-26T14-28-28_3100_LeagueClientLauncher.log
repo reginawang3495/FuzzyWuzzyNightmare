@@ -1,0 +1,15 @@
+000000.000| ALWAYS| Logging started at 2017-03-26T14:28:28.112
+000000.001| ALWAYS| Application Version:7.6.180.7093 - CL:1807093 - Build Date:Mar 17 2017 - Build Time:18:32:47
+000000.001|   OKAY| Running in Launcher Mode (Version Switcher) from cwd 'F:\League of Legends'.
+000000.001|   OKAY| Riot::RADS::Patching::EnumerateInstalledReleases: (league_client_sln)
+000000.006|   OKAY| Riot::RADS::Patching::EnumerateInstalledReleases: Found candidate "0.0.0.28" (0x0000001c).
+000000.008|   OKAY| Riot::RADS::Patching::EnumerateInstalledReleases: Found OK-file, candidate is valid
+000000.008|   OKAY| Riot::RADS::Patching::EnumerateInstalledReleases: Found candidate "0.0.0.29" (0x0000001d).
+000000.009|   OKAY| Riot::RADS::Patching::EnumerateInstalledReleases: Found OK-file, candidate is valid
+000000.009|   OKAY| Riot::RADS::Patching::EnumerateInstalledReleases: Succeeded.
+000000.026|   OKAY| Initial working directory: "F:\League of Legends"
+000000.026|   OKAY| Current process: "F:\League of Legends\LeagueClient.exe"
+000000.026|   OKAY| Command line arguments:
+000000.026|   OKAY| Launching release '0.0.0.29'.
+000000.027|   OKAY| Riot::RADS::Common::SolutionManifest::Load: ("F:/League of Legends/RADS/solutions/league_client_sln/releases/0.0.0.29/solutionmanifest")
+000000.029|   OKAY| Riot::RADS::Common::SolutionManifest::Load: Succeeded
