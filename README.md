@@ -1,4 +1,6 @@
 # FuzzyWuzzyNightmare
+## Created by: Angela Wang and Regina Wang
+
 ## About Game
 In this game, the player--represented by an elephant--is on a journey to retake the Book of Knowledge that the FuzzyWuzzies have stolen. To get back the book, the player solves puzzles to get to the next levels by defeating and taking the keys from the minions and putting together the right answer. In the last level, the elephant squares off against the boss and uses its own knowledge to defeat the boss and reobtain the Book of Knowledge. However, after finally getting the Book back and going through the journey without it, the elephant realizes that it doesn't need to depend on the Book to be intelligent and discards the Book.
 
